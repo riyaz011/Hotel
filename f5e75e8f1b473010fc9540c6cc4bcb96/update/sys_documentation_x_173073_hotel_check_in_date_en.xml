@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="date" label="Date" language="en" table="x_173073_hotel_check_in">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>date</element>
+            <help/>
+            <hint/>
+            <label>Date</label>
+            <language>en</language>
+            <name>x_173073_hotel_check_in</name>
+            <plural>Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-17 05:05:07</sys_created_on>
+            <sys_id>f3f039f01b137010fc9540c6cc4bcbf8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Date</sys_name>
+            <sys_package display_value="Hotel" source="x_173073_hotel">f5e75e8f1b473010fc9540c6cc4bcb96</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hotel">f5e75e8f1b473010fc9540c6cc4bcb96</sys_scope>
+            <sys_update_name>sys_documentation_x_173073_hotel_check_in_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-17 05:05:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
