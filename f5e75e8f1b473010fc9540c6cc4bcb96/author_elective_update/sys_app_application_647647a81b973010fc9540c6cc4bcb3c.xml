@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Room</name>
+        <order>100</order>
+        <roles>x_173073_hotel.hotel_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-16 16:39:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>647647a81b973010fc9540c6cc4bcb3c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Room</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Hotel" source="x_173073_hotel">f5e75e8f1b473010fc9540c6cc4bcb96</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hotel">f5e75e8f1b473010fc9540c6cc4bcb96</sys_scope>
+        <sys_update_name>sys_app_application_647647a81b973010fc9540c6cc4bcb3c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-16 16:39:58</sys_updated_on>
+        <title>Room</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hotel">f5e75e8f1b473010fc9540c6cc4bcb96</application>
+        <file_path/>
+        <instance_id>3adc6733db363b44b847ac44d4961962</instance_id>
+        <instance_name>dev89742</instance_name>
+        <name>sys_app_application_647647a81b973010fc9540c6cc4bcb3c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>Room</name><order>100</order><roles>x_173073_hotel.hotel_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-16 16:39:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>647647a81b973010fc9540c6cc4bcb3c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Room</sys_name><sys_overrides/><sys_package display_value="Hotel" source="x_173073_hotel">f5e75e8f1b473010fc9540c6cc4bcb96</sys_package><sys_policy/><sys_scope display_value="Hotel">f5e75e8f1b473010fc9540c6cc4bcb96</sys_scope><sys_update_name>sys_app_application_647647a81b973010fc9540c6cc4bcb3c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-16 16:39:58</sys_updated_on><title>Room</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>1412338232</payload_hash>
+        <record_name>Room</record_name>
+        <reverted_from/>
+        <source>7de75e8f1b473010fc9540c6cc4bcb98</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-16 16:39:58</sys_created_on>
+        <sys_id>287647a81b973010fc9540c6cc4bcb3f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c89f96fe50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-16 16:39:58</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>607647a8529730100d210a1978f3813f</update_guid>
+        <update_guid_history>607647a8529730100d210a1978f3813f:1412338232</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Room">7369cef81b537010fc9540c6cc4bcb12</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-17 06:51:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>3c9c51bb307f4c84b6d8c79419d32f10</sys_id>
+        <sys_metadata>647647a81b973010fc9540c6cc4bcb3c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Room</sys_name>
+        <sys_package display_value="Hotel" source="x_173073_hotel">f5e75e8f1b473010fc9540c6cc4bcb96</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hotel">f5e75e8f1b473010fc9540c6cc4bcb96</sys_scope>
+        <sys_scope_delete display_value="">c99451327fc7442e8563517a01714de1</sys_scope_delete>
+        <sys_update_name>sys_app_application_647647a81b973010fc9540c6cc4bcb3c</sys_update_name>
+        <sys_update_version display_value="sys_app_application_647647a81b973010fc9540c6cc4bcb3c">287647a81b973010fc9540c6cc4bcb3f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-17 06:51:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

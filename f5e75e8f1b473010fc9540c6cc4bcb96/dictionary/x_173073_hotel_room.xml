@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Room" max_length="40" name="x_173073_hotel_room" type="collection">
+    <element label="Room" max_length="40" name="x_173073_hotel_room" sizeclass="7" type="collection">
         <element label="Floor" max_length="40" name="floor" type="integer"/>
         <element label="Number" max_length="10" name="number" type="string"/>
     </element>
